@@ -1,0 +1,248 @@
+[
+    {
+        "ticker": "AGRO",
+        "price": "56,10",
+        "description": "Agrometal",
+        "url": "https://iol.invertironline.com/Titulo/Index/48"
+    },
+    {
+        "ticker": "AUSO",
+        "price": "2.745,00",
+        "description": "Autopistas del Sol",
+        "url": "https://iol.invertironline.com/Titulo/Index/21520"
+    },
+    {
+        "ticker": "BHIP",
+        "price": "352,00",
+        "description": "Banco Hipotecario",
+        "url": "https://iol.invertironline.com/Titulo/Index/302"
+    },
+    {
+        "ticker": "BOLT",
+        "price": "55,80",
+        "description": "Boldt",
+        "url": "https://iol.invertironline.com/Titulo/Index/34089"
+    },
+    {
+        "ticker": "BPAT",
+        "price": "2.470,00",
+        "description": "Banco Patagonia",
+        "url": "https://iol.invertironline.com/Titulo/Index/34746"
+    },
+    {
+        "ticker": "CADO",
+        "price": "547,00",
+        "description": "Carlos Casado",
+        "url": "https://iol.invertironline.com/Titulo/Index/535"
+    },
+    {
+        "ticker": "CAPX",
+        "price": "6.510,00",
+        "description": "Capex",
+        "url": "https://iol.invertironline.com/Titulo/Index/553"
+    },
+    {
+        "ticker": "CARC",
+        "price": "31,45",
+        "description": "Carboclor S.A.",
+        "url": "https://iol.invertironline.com/Titulo/Index/20832"
+    },
+    {
+        "ticker": "CECO2",
+        "price": "291,00",
+        "description": "Endesa Costanera",
+        "url": "https://iol.invertironline.com/Titulo/Index/745"
+    },
+    {
+        "ticker": "CELU",
+        "price": "1.310,00",
+        "description": "Celulosa",
+        "url": "https://iol.invertironline.com/Titulo/Index/758"
+    },
+    {
+        "ticker": "CEPU",
+        "price": "1.030,00",
+        "description": "Central Puerto Sa",
+        "url": "https://iol.invertironline.com/Titulo/Index/773"
+    },
+    {
+        "ticker": "CGPA2",
+        "price": "1.890,00",
+        "description": "Camuzzi Gas Pam...",
+        "url": "https://iol.invertironline.com/Titulo/Index/28443"
+    },
+    {
+        "ticker": "CTIO",
+        "price": "1.750,00",
+        "description": "Consultatio",
+        "url": "https://iol.invertironline.com/Titulo/Index/37158"
+    },
+    {
+        "ticker": "DGCU2",
+        "price": "1.290,00",
+        "description": "Distribuidora d...",
+        "url": "https://iol.invertironline.com/Titulo/Index/1190"
+    },
+    {
+        "ticker": "DOME",
+        "price": "77,00",
+        "description": "Suscripción Pre...",
+        "url": "https://iol.invertironline.com/Titulo/Index/1212"
+    },
+    {
+        "ticker": "DYCA",
+        "price": "399,00",
+        "description": "Dycasa",
+        "url": "https://iol.invertironline.com/Titulo/Index/1216"
+    },
+    {
+        "ticker": "FERR",
+        "price": "150,00",
+        "description": "Ferrum",
+        "url": "https://iol.invertironline.com/Titulo/Index/1301"
+    },
+    {
+        "ticker": "FIPL",
+        "price": "305,00",
+        "description": "Fiplasto",
+        "url": "https://iol.invertironline.com/Titulo/Index/1305"
+    },
+    {
+        "ticker": "GAMI",
+        "price": "220,00",
+        "description": "B-Gaming S.A.",
+        "url": "https://iol.invertironline.com/Titulo/Index/95368"
+    },
+    {
+        "ticker": "GBAN",
+        "price": "1.205,00",
+        "description": "Gas Natural BAN",
+        "url": "https://iol.invertironline.com/Titulo/Index/1360"
+    },
+    {
+        "ticker": "GCDI",
+        "price": "26,70",
+        "description": "Gcdi S.A. Accio...",
+        "url": "https://iol.invertironline.com/Titulo/Index/69332"
+    },
+    {
+        "ticker": "GCLA",
+        "price": "1.800,00",
+        "description": "Grupo Clarín",
+        "url": "https://iol.invertironline.com/Titulo/Index/35529"
+    },
+    {
+        "ticker": "GRIM",
+        "price": "1.300,00",
+        "description": "Grimoldi",
+        "url": "https://iol.invertironline.com/Titulo/Index/1411"
+    },
+    {
+        "ticker": "HAVA",
+        "price": "5.970,00",
+        "description": "Havanna Holding...",
+        "url": "https://iol.invertironline.com/Titulo/Index/83874"
+    },
+    {
+        "ticker": "INTR",
+        "price": "385,50",
+        "description": "Compania Introd...",
+        "url": "https://iol.invertironline.com/Titulo/Index/1492"
+    },
+    {
+        "ticker": "INVJ",
+        "price": "422,50",
+        "description": "Inversora Juram...",
+        "url": "https://iol.invertironline.com/Titulo/Index/70274"
+    },
+    {
+        "ticker": "IRSA",
+        "price": "1.210,00",
+        "description": "Irsa",
+        "url": "https://iol.invertironline.com/Titulo/Index/1499"
+    },
+    {
+        "ticker": "LEDE",
+        "price": "1.155,00",
+        "description": "Ledesma",
+        "url": "https://iol.invertironline.com/Titulo/Index/1583"
+    },
+    {
+        "ticker": "LONG",
+        "price": "33,75",
+        "description": "Longvie",
+        "url": "https://iol.invertironline.com/Titulo/Index/1600"
+    },
+    {
+        "ticker": "METR",
+        "price": "912,00",
+        "description": "Metrogas",
+        "url": "https://iol.invertironline.com/Titulo/Index/1656"
+    },
+    {
+        "ticker": "MOLA",
+        "price": "18.050,00",
+        "description": "Molinos Agro S.A.",
+        "url": "https://iol.invertironline.com/Titulo/Index/88594"
+    },
+    {
+        "ticker": "MOLI",
+        "price": "3.540,00",
+        "description": "Molinos Río De ...",
+        "url": "https://iol.invertironline.com/Titulo/Index/1679"
+    },
+    {
+        "ticker": "MORI",
+        "price": "344,50",
+        "description": "Morixe Hermanos",
+        "url": "https://iol.invertironline.com/Titulo/Index/1687"
+    },
+    {
+        "ticker": "MTR",
+        "price": "1.725,00",
+        "description": "Matba Rofex S.A.",
+        "url": "https://iol.invertironline.com/Titulo/Index/90293"
+    },
+    {
+        "ticker": "OEST",
+        "price": "1.080,00",
+        "description": "Grupo Concesion...",
+        "url": "https://iol.invertironline.com/Titulo/Index/1850"
+    },
+    {
+        "ticker": "PATA",
+        "price": "1.200,00",
+        "description": "Imp. y Exportad...",
+        "url": "https://iol.invertironline.com/Titulo/Index/1995"
+    },
+    {
+        "ticker": "POLL",
+        "price": "450,00",
+        "description": "Polledo",
+        "url": "https://iol.invertironline.com/Titulo/Index/2226"
+    },
+    {
+        "ticker": "RICH",
+        "price": "982,00",
+        "description": "Laboratorios Ri...",
+        "url": "https://iol.invertironline.com/Titulo/Index/90109"
+    },
+    {
+        "ticker": "RIGO",
+        "price": "900,00",
+        "description": "Rigolleau",
+        "url": "https://iol.invertironline.com/Titulo/Index/2416"
+    },
+    {
+        "ticker": "SAMI",
+        "price": "843,00",
+        "description": "San Miguel",
+        "url": "https://iol.invertironline.com/Titulo/Index/2437"
+    },
+    {
+        "ticker": "SEMI",
+        "price": "142,50",
+        "description": "Molinos Juan Se...",
+        "url": "https://iol.invertironline.com/Titulo/Index/2467"
+    }
+]
